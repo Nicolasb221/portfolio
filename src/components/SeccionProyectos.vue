@@ -329,7 +329,7 @@
             }
         }
     } 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
         .tb > p{
             font-size: 10px;
             padding: 0px 15px 5px 15px;
